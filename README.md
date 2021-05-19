@@ -13,3 +13,5 @@ In this particular project, we are going to work on the inaugural corpora from t
 President Franklin D. Roosevelt in 1941
 President John F. Kennedy in 1961
 President Richard Nixon in 1973
+
+Note : This consists of Python file, Report is in Word and pdf format.
