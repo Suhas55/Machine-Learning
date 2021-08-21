@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine-Learning Case Study 
 
 ## Problem 1 : Prediction of Election results, by using multiple ML algorithms and HyperParameter Tunning.
 
